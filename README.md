@@ -98,7 +98,7 @@ The following env variables are supported:
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
 #HEROKU
-(https://telegra.ph/file/f458209844193253aaa60.jpg)(https://heroku.com/deploy?template=https://github.com/harleyquinn099/tgbot)
+(https://telegra.ph/file/f458209844193253aaa60.jpg)](https://heroku.com/deploy?template=https://github.com/harleyquinn099/tgbot)
 ### Python dependencies
 
 Install the necessary python dependencies by moving to the project directory and running:
